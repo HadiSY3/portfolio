@@ -1,0 +1,31 @@
+{
+  "personal_info": {
+    "name": "Hadi Althiab"
+  },
+  "experience": [],
+  "education": [],
+  "skills": [],
+  "languages": [],
+  "additional_info": [
+    "Hadi Althiab",
+    "Hadi.althiab@haw-hamburg.com| +(49) 15774480168",
+    "Ausbildung",
+    "2021  –\t Heute\t\tHAW Hamburg B. Sc. Informatik Technischer Systeme (6. Semester)",
+    "2016  –\t 2021\t\tHeisenberg Gymnasium: Allgemeine Hochschulreife",
+    "Projekte",
+    "Drehgeber | Programmiersprache: C | Umgebung: Keil",
+    "Entwicklung eines Drehgebers der Winkel sowie Geschwindigkeit berechnet und diese auf einem LCD-Display sowie LEDs eines ARM-Cortex STM32 ausgibt",
+    "Temperaturmessung | Programmiersprache: C | Umgebung: Keil",
+    "Mithilfe von Temperatur Sensoren (DS18B20) und des ARM-Cortex STM32 wurde die Temperatur gemessen und auf dem Display ausgegeben",
+    "Raumerkennung | Programmiersprache: Python | Umgebung: JupyterHub & Terminal",
+    "Mithilfe eines des Rechnerterminal wurde auf ein Lidar-Radar zugegriffen und durch die Sprache Python visualisiert sowie ausgegeben (geplottet)",
+    "Producer-Consumer-Problem | Programmiersprache: C | Umgebung: CLion",
+    "Simulation des Erzeuger-Verbraucher-Problems mit Hilfe von Semaphoren, Mutex und einer selbst implementierten Doppelverkettete Liste.",
+    "Festo-Transfersystem mit einem AM335x-Prozessor | Programmiersprach: C, C++ | Umgebung: QNX Momentics",
+    "Entwicklung einer Software für eine Werkstück-Sortieranlage auf Basis von zwei Förderbandmodulen (Festo-Transfersysteme)",
+    "Fähigkeiten & Kenntnisse",
+    "Sprachen:\t\t\tDeutsch, Englisch, Arabisch",
+    "Programmiersprachen:\tJava, C, C++, Rust, Python, Assembler, SQL, HTML, CSS",
+    "Programm-Tools:\t\tIntelliJ, CLion, Keil, DataGrip, Git, Matlab, QNX Momentics"
+  ]
+}
